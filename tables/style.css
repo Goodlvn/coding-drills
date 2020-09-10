@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+    background-color: rgb(48, 49, 51);
+    color: #fcf7ef;
+    font-family: 'Montserrat', sans-serif;}
+
+h1, h3 {
+    padding: 0 10px;
+    text-align: center;
+}
+
+
+table {
+    margin: 0 auto;
+}
+
+table, tr, th,td {
+    border: solid 2px #fcf7ef;
+    border-collapse: collapse;
+    padding: 7px 13px;
+}
+
+.logo {
+        padding-top: 10px;
+        text-align: center;
+}
+
+a {
+    color: #75e7cb;
+}
+
+.smelly {
+    text-align: center;
+}
+
+th {
+    background-color: #fcf7ef;
+    color: rgb(48, 49, 51);
+}
